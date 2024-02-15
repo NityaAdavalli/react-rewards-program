@@ -1,0 +1,38 @@
+[
+  {
+    "transactionId": "1",
+    "customer": "John",
+    "date": "2024-01-15",
+    "amount": 120
+  },
+  {
+    "transactionId": "2",
+    "customer": "Alice",
+    "date": "2024-01-20",
+    "amount": 80
+  },
+  {
+    "transactionId": "3",
+    "customer": "John",
+    "date": "2024-02-10",
+    "amount": 150
+  },
+  {
+    "transactionId": "4",
+    "customer": "Alice",
+    "date": "2024-02-22",
+    "amount": 70
+  },
+  {
+    "transactionId": "5",
+    "customer": "John",
+    "date": "2024-03-05",
+    "amount": 90
+  },
+  {
+    "transactionId": "6",
+    "customer": "Alice",
+    "date": "2024-03-18",
+    "amount": 110
+  }
+]
